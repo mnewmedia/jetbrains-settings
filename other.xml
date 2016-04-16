@@ -73,10 +73,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://cordova.apache.org/ns/1.0" />
-    <ignored-resource url="http://www.w3.org/ns/widgets" />
-  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
