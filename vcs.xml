@@ -30,6 +30,10 @@
           <option name="url" value="https://mnewmedia@bitbucket.org/mnewmedia/remove-me.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mnewmedia/docker-couchdb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\projekte\ai" />
