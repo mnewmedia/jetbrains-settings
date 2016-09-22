@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".chcpignore" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
