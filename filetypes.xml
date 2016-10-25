@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="int-journal" type="PLAIN_TEXT" />
+      <mapping pattern="int" type="PLAIN_TEXT" />
       <mapping pattern="onsa" type="PLAIN_TEXT" />
       <mapping pattern=".chcpignore" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
